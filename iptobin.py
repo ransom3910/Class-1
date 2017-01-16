@@ -1,4 +1,5 @@
 #!/usr/bin/env python
+#Test program for learning Python.
 import sys
 
 ot = []
